@@ -1,7 +1,6 @@
-
 # Coursera: Getting and Cleaning Data, Week 4 Assignment
-# March 6, 2016
 # An Yu
+# March 6, 2016
 
 library(plyr)
 library(dplyr)

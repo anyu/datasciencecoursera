@@ -1,7 +1,8 @@
-Coursera: Getting and Cleaning Data, final assignment 
+Coursera: Getting and Cleaning Data
 ==================================================================
-March 6, 2016
 An Yu
+March 6, 2016
+Final assignment
 
 #### Description
 
