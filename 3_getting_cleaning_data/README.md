@@ -1,7 +1,7 @@
 Coursera: Getting and Cleaning Data
 ==================================================================
-An Yu
-March 6, 2016
+An Yu  
+March 6, 2016  
 Final assignment
 
 #### Description
