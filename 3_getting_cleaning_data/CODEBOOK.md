@@ -15,4 +15,4 @@ Subjects in the study performed six activities while wearing a Samsung Galaxy S 
 
 **subject_id**: A unique identifier for the 30 subjects in the study.
 
-**variable**: The different mean and standard deviation measurements captured. '-XYZ' denotes 3-axial signals in the X, Y and Z directions.
+**tBodyAcc.mean.X** through **fBodyBodyGyroJerkMag.std**:  The different mean and standard deviation measurements captured. '-XYZ' denotes 3-axial signals in the X, Y and Z directions.
